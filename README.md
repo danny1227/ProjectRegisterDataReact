@@ -11,3 +11,6 @@ Este proyecto implementa un sistema de registro e inicio de sesión de usuarios 
 - **Estilos con Bootstrap**: Las páginas de registro e inicio de sesión están estilizadas usando Bootstrap para una interfaz moderna y responsiva.
 
 ## Estructura del Proyecto
+- **login**.
+- **registro**.
+- **Home (al ingresar al login)**.
