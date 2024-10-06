@@ -85,7 +85,7 @@ export const LoginPage = () => {
           <p>
             {" "}
             ¿Aún no tiene usuario?
-            <a type="submit" href="#" onClick={registerU}>
+            <a type="submit" href="/" onClick={registerU}>
               Registrarme
             </a>
           </p>

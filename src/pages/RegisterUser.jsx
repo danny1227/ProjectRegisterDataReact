@@ -77,7 +77,7 @@ export const RegisterUser = () => {
         </div>
         <div className="forget">
           <p> <img className="iconAnterior" src={icon} alt="Icon" />
-             <a type="submit" href="#" onClick={loginU}> Login </a>
+             <a type="submit" href="/" onClick={loginU}> Login </a>
           </p>
         </div>
       </form>
